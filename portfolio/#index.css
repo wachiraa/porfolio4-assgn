@@ -1,0 +1,40 @@
+*{
+    font-size: 1.2 em;
+}  
+
+
+
+nav {
+    background: color #0a440a;
+}
+
+nav a {
+   color: #fff;
+}
+footer{
+    background-color: 011801;
+}
+header{
+    background-color:yellowgreen ;
+
+}
+footer{
+    background-color: red;
+
+}
+body {
+    background-color: rgb(208,218,208)
+}
+
+.navbar {
+    background-color: #fff;
+    padding: 0.5em;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.nav-link {
+    border: 0.2rem solid green;
+    color: #fff;
+}
